@@ -25,3 +25,5 @@
   27 echo git_commandds.txt
   28 history
   29 echo > git_commands.txt
+
+this is some new changes
